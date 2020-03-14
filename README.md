@@ -6,3 +6,5 @@ Main files:
 MainWindow.xaml
 
 MainWindow.xaml.cs
+
+I also added some pics to show what the program does. Enjoy my janky hello world form amd back in its glory. I have a lot of studying to do. At least coding is pretty intuitive here. I was concerned that perhaps the switch from console programs to programs with an actual UI might screww with me, but nah. So far, so good. Knock on wood. 
